@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-20T12:39:07.944Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="GxX3-YpdEURMstWQqN8S" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-20T12:45:12.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="kazeoK9K14Ydan9JNgf0" version="21.3.2" type="github">
   <diagram name="Page-1" id="edf60f1a-56cd-e834-aa8a-f176f3a09ee4">
     <mxGraphModel dx="1400" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1000" pageHeight="1200" background="none" math="0" shadow="0">
       <root>
@@ -285,6 +285,42 @@
             <mxPoint x="530" y="2020" as="sourcePoint" />
             <mxPoint x="570" y="2020" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-290" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-291" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-292" value="Family bonds" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2005" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-293" value="Path of vengeance" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2006" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-294" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="2040" as="sourcePoint" />
+            <mxPoint x="310" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-295" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-296" value="Ending scene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2085" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-297" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="2040" as="sourcePoint" />
+            <mxPoint x="630" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-298" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1tTsJar_efiryTSSRx6f-299" value="Ending scene" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="2085" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
